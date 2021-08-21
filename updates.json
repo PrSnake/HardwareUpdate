@@ -1,9 +1,9 @@
 {
   "homepage": "<homepage/download page for your mod>",
   "1.17.1": {
-    "1.17.1-0.0.0.4": "Nothing done yet",
-    "1.17.1-0.0.0.3": "Nothing done yet",
-    "1.17.1-0.0.0.2": "Nothing done yet",
+    "1.17.1-0.0.0.4": "Not disclosed yet",
+    "1.17.1-0.0.0.3": "Added in game warning of outdated mod",
+    "1.17.1-0.0.0.2": "Added the auto update check",
     "1.17.1-0.0.0.1": "Nothing done yet"
   },
   "promos": {
