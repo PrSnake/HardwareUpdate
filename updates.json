@@ -1,0 +1,13 @@
+{
+  "homepage": "<homepage/download page for your mod>",
+  "1.17.1": {
+    "0.0.0.4": "Nothing done yet",
+    "0.0.0.3": "Nothing done yet",
+    "0.0.0.2": "Nothing done yet",
+    "0.0.0.1": "Nothing done yet"
+  },
+  "promos": {
+    "1.17.1-latest": "0.0.0.4",
+    "1.17.1-recommended": "0.0.0.2"
+  }
+}
